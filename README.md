@@ -25,7 +25,7 @@ Aus diesen Elementen machte ich eine fiktive "Forum"-Ausgabe im Sonderformat:
 
 <br/>
 <img width="4000" height="4800" alt="HuggingDinosSunset" src="https://github.com/user-attachments/assets/3f91e6ae-8bbb-4d59-ad29-493838472e5a" />
-(Copyright:Placeit)
+
 
 
 
