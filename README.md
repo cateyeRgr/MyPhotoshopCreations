@@ -16,5 +16,7 @@ Aus den folgenden Elementen erstellte ich mit Adobe Firefly das Layout für ein 
 <br/>
 
 Aus diesen Elementen machte ich eine fiktive "Forum"-Ausgabe im Sonderformat:
+```
 
 <img width="768" height="1376" alt="ForumCover_neu" src="https://github.com/user-attachments/assets/fb48e71b-e107-4460-9b9d-a7c86affc945" />
+```
