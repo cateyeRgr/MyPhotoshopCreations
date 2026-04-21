@@ -11,12 +11,12 @@ Aus den folgenden Elementen erstellte ich mit Adobe Firefly das Layout für ein 
    <br/>
 3. <img width="51" height="91" alt="strichcode" src="https://github.com/user-attachments/assets/2eb98e64-b7ce-4b60-8ffd-3cbd4cb4bb5c" />
 <br/>
-4. <img width="925" height="370" alt="bande" src="https://github.com/user-attachments/assets/c641e4a9-d3e7-4a19-a5e0-45145b971e4f" />
 
 <br/>
 
 Aus diesen Elementen machte ich eine fiktive "Forum"-Ausgabe im Sonderformat:
-```
 
-<img width="768" height="1376" alt="ForumCover_neu" src="https://github.com/user-attachments/assets/fb48e71b-e107-4460-9b9d-a7c86affc945" />
-```
+<img width="1080" height="1920" alt="ForumCoverByMe_1" src="https://github.com/user-attachments/assets/1a0116ef-9c85-443e-ac46-0dbb4ee0da7b" />
+
+
+
