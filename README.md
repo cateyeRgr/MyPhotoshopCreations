@@ -29,7 +29,6 @@ Mit GIMP erstellt
 
 <img width="4500" height="5400" alt="DogWithGlassesRed" src="https://github.com/user-attachments/assets/1fe5fa0c-6bcd-4240-8986-af077b86619c" />
 
-
 <br/>
 
 Mit INKSCAPE erstellt
