@@ -1,6 +1,8 @@
 # MyPhotoshopCreations
 
 ## Adobe Firefly:
+<br/>
+<img width="1086" height="1448" alt="Morgen_Möbel" src="https://github.com/user-attachments/assets/bc98ff91-4e9f-465f-88f1-eaef03b4c957" />
 
 <br/>
 Aus den folgenden Elementen erstellte ich mit Adobe Firefly das Layout für ein Magazin-Cover. Alle Photos und Bilder sind - soweit nicht anders angemerkt - aus der Datenbank von Adobe Firefly:
