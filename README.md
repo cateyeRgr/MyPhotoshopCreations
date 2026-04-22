@@ -27,7 +27,12 @@ Mit GIMP erstellt
 
 <br/>
 
-Mit INKSCAPE erstellt:
+<img width="4500" height="5400" alt="DogWithGlassesRed" src="https://github.com/user-attachments/assets/1fe5fa0c-6bcd-4240-8986-af077b86619c" />
+
+
+<br/>
+
+Mit INKSCAPE erstellt
 <img width="4000" height="4800" alt="HuggingDinosSunset" src="https://github.com/user-attachments/assets/3f91e6ae-8bbb-4d59-ad29-493838472e5a" />
 
 
