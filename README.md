@@ -3,7 +3,7 @@
 ## Adobe Firefly:
 
 <br/>
-Aus den folgenden Elementen erstellte ich mit Adobe Firefly das Layout für ein Magazin-Cover. Alle Photos und Bilder sind - soweit nicht anders angemerkt - von Adobe Firefly erstellt:
+Aus den folgenden Elementen erstellte ich mit Adobe Firefly das Layout für ein Magazin-Cover. Alle Photos und Bilder sind - soweit nicht anders angemerkt - aus der Datenbank von Adobe Firefly:
 <br/>
 1. <img width="323" height="422" alt="Screenshot 2024-03-18 211331" src="https://github.com/user-attachments/assets/4b251690-51f7-4983-99c0-48157dfa1162" />
 <br/>
