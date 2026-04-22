@@ -20,10 +20,13 @@ Aus diesen Elementen machte ich eine fiktive "Forum"-Ausgabe im Sonderformat:
 
 
 ## Selbsterstellte T-Shirt Designs
+Mit GIMP erstellt
 
 <img width="4500" height="5400" alt="GoodDayCatLightHeart" src="https://github.com/user-attachments/assets/ecc7fe84-29d7-4cba-8d54-e2f18d4256dd" />
 
 <br/>
+
+Mit INKSCAPE erstellt:
 <img width="4000" height="4800" alt="HuggingDinosSunset" src="https://github.com/user-attachments/assets/3f91e6ae-8bbb-4d59-ad29-493838472e5a" />
 
 
