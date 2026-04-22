@@ -5,6 +5,7 @@
 <br/>
 Aus den folgenden Elementen erstellte ich mit Adobe Firefly das Layout für ein Magazin-Cover. Alle Photos und Bilder sind - soweit nicht anders angemerkt - aus der Datenbank von Adobe Firefly:
 <br/>
+<p/>
 1. <img width="323" height="422" alt="Screenshot 2024-03-18 211331" src="https://github.com/user-attachments/assets/4b251690-51f7-4983-99c0-48157dfa1162" />
 <br/>
 2. <img width="369" height="105" alt="logo" src="https://github.com/user-attachments/assets/45e9967f-c516-42b9-b6b1-c79b7ed1ee43" /> (Copyright: Forum Magazin)
